@@ -10,7 +10,7 @@ I'm on a journey of exploration, currently immersed in the world of Full Stack W
 - 🌱 Learning and growing in Full Stack Web Development.
 - 💡 Exploring the fascinating intersection of Competitive Coding and Machine Learning.
 - 🎓 Computer Science student with an insatiable curiosity for cutting-edge technologies.
-- Languages : C , C++, HTML, CSS, JavaScript
+- Languages : Python, C , C++, HTML, CSS, JavaScript
 
 
 ## 🌐 Connect with Me
