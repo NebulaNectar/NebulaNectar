@@ -2,15 +2,14 @@
 
 ## 🚀 About Me
 
-I'm on a journey of exploration, currently immersed in the world of Full Stack Web Development. My passion extends to Competitive Coding and the enchanting realms of Machine Learning.
+I'm on a journey of exploration, currently immersed in the world of Networking , Cybersecurity. My passion extends to Ethical Hacking .
 
 
 ## 🛠️ Tech Stack
 
-- 🌱 Learning and growing in Full Stack Web Development.
-- 💡 Exploring the fascinating intersection of Competitive Coding and Machine Learning.
+- 💡 Exploring the fascinating intersection of Networking and Cybersecurity.
 - 🎓 Computer Science student with an insatiable curiosity for cutting-edge technologies.
-- Languages : Python, C , C++, HTML, CSS, JavaScript
+- Languages : Python, SQL, C++, C
 
 
 ## 🌐 Connect with Me
